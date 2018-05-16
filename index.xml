@@ -6,9 +6,70 @@
     <description>Recent content on alpacasKing&#39;s Games</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 16 May 2018 23:29:39 +0900</lastBuildDate>
     
 	<atom:link href="https://alpacasking.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Maze</title>
+      <link>https://alpacasking.github.io/portfolio/maze/</link>
+      <pubDate>Wed, 16 May 2018 23:29:39 +0900</pubDate>
+      
+      <guid>https://alpacasking.github.io/portfolio/maze/</guid>
+      <description>&lt;p&gt;Unity入门时做的迷宫游戏
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Refrections</title>
+      <link>https://alpacasking.github.io/portfolio/refrections/</link>
+      <pubDate>Wed, 16 May 2018 23:29:39 +0900</pubDate>
+      
+      <guid>https://alpacasking.github.io/portfolio/refrections/</guid>
+      <description>&lt;p&gt;解谜恐怖游戏
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Scrap Iron</title>
+      <link>https://alpacasking.github.io/portfolio/scrap_iron/</link>
+      <pubDate>Wed, 16 May 2018 23:29:39 +0900</pubDate>
+      
+      <guid>https://alpacasking.github.io/portfolio/scrap_iron/</guid>
+      <description>&lt;p&gt;机械组装游戏
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>JJRC AR神射手</title>
+      <link>https://alpacasking.github.io/portfolio/jjrc_ar/</link>
+      <pubDate>Wed, 16 May 2018 23:29:39 +0901</pubDate>
+      
+      <guid>https://alpacasking.github.io/portfolio/jjrc_ar/</guid>
+      <description>&lt;p&gt;AR四轴飞行器游戏
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>再见吧山小姐</title>
+      <link>https://alpacasking.github.io/portfolio/bye_shan/</link>
+      <pubDate>Wed, 16 May 2018 23:29:39 +0900</pubDate>
+      
+      <guid>https://alpacasking.github.io/portfolio/bye_shan/</guid>
+      <description>&lt;p&gt;不知所谓的密室游戏
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sculptor Henry</title>
+      <link>https://alpacasking.github.io/portfolio/sculptor_henry/</link>
+      <pubDate>Wed, 16 May 2018 23:29:39 +0900</pubDate>
+      
+      <guid>https://alpacasking.github.io/portfolio/sculptor_henry/</guid>
+      <description>&lt;p&gt;智力解谜游戏
+&lt;/p&gt;</description>
+    </item>
     
   </channel>
 </rss>
