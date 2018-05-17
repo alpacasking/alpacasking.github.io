@@ -22,7 +22,7 @@
     </item>
     
     <item>
-      <title>Refrections</title>
+      <title>Reflection&#39;s</title>
       <link>https://alpacasking.github.io/portfolio/refrections/</link>
       <pubDate>Wed, 16 May 2018 23:29:39 +0900</pubDate>
       
@@ -52,12 +52,12 @@
     </item>
     
     <item>
-      <title>再见吧山小姐</title>
+      <title>再见吧，山小姐</title>
       <link>https://alpacasking.github.io/portfolio/bye_shan/</link>
       <pubDate>Wed, 16 May 2018 23:29:39 +0900</pubDate>
       
       <guid>https://alpacasking.github.io/portfolio/bye_shan/</guid>
-      <description>&lt;p&gt;不知所谓的密室游戏
+      <description>&lt;p&gt;密室逃脱游戏
 &lt;/p&gt;</description>
     </item>
     
@@ -67,7 +67,17 @@
       <pubDate>Wed, 16 May 2018 23:29:39 +0900</pubDate>
       
       <guid>https://alpacasking.github.io/portfolio/sculptor_henry/</guid>
-      <description>&lt;p&gt;智力解谜游戏
+      <description>&lt;p&gt;智力解谜游戏（制作中）
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sutoku</title>
+      <link>https://alpacasking.github.io/portfolio/sutoku/</link>
+      <pubDate>Fri, 18 May 2018 01:28:23 +0900</pubDate>
+      
+      <guid>https://alpacasking.github.io/portfolio/sutoku/</guid>
+      <description>&lt;p&gt;数独游戏
 &lt;/p&gt;</description>
     </item>
     
